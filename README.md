@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isacc Danger! AkA IBigBitDev97!</h1>
 <h3 align="center">I'm a Code Developer and Back-end apprentice</h3>
+<h3>This is my education profile where i`ll put all my proyects about my developer path</h3>
+<h3>If you want to see my profile where i put my proffesional work take a look here: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibigbitdev97&label=Profile%20views&color=0e75b6&style=flat" alt="ibigbitdev97" /> </p>
 
