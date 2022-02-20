@@ -1,9 +1,13 @@
-# Hello ! I am Isaac AKA Bigbitdev
+# Hello! I am Isaac AKA Bigbitdev
+
+
 
 
 
 
 ## 🚀 About Me
+
+
 
 
 ## 🔗 Links
@@ -14,8 +18,11 @@ This is my student profile if you land here by chance I invite you to check my p
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Guide
+## 🔗 Other Links
+[![my REPLIT profile](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/BigBitDev)
 
+
+## Guide
 Here you have a little guide to understand where I get the idea to create the projects in this profile:
 
 - 4GA -> 4GEECKACADEMY
