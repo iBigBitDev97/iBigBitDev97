@@ -28,4 +28,3 @@ If you land here by chance I invite you to check my professional  profile!:
 - FCC - FREECODECAMP
 - PLZ - PLATZI
 - UMD - UDEMY
-- PPP - PERSONAL PROYECT
