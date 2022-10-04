@@ -16,15 +16,3 @@ If you land here by chance I invite you to check my professional  profile!:
 ### This is my other links where u can see my side proyects of code, my "badges" on pages about coding:
 [![my other profile](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@BigBitDev/)
 
-
-## Guide:
-
-### This is a little guide to know where my projects in this profiles came from : 
-
-
-
-- 4GA - 4GEEK ACADEMY
-- FTM - FRONTEND MENTOR
-- FCC - FREECODECAMP
-- PLZ - PLATZI
-- UMD - UDEMY
